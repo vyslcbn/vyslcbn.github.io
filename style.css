@@ -1,0 +1,105 @@
+body {
+
+    background-color: rgb(228, 209, 187);
+}
+
+#navigasyon {
+    margin-bottom: 50px;
+
+
+}
+
+.resim {
+    width: 400px;
+    height: 400px;
+}
+
+#resim1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+
+.navlink {
+    font-size: large;
+
+}
+
+.nav-item {
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    margin-left: 0rem;
+}
+
+#resim {
+    border-radius: 50%;
+    justify-content: end;
+}
+
+.metin {
+    margin-left: 0px;
+    text-align: left;
+    
+}
+
+.yazi {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    max-width: 500px;
+    margin: 1rem;
+}
+
+#social {
+    margin-left: 1rem;
+
+}
+
+.row{
+    margin-bottom:8rem;
+}
+.progress{
+    background-color: rgb(120, 122, 122);
+    margin: 3rem;
+    height: 20px;
+
+}
+.name{
+    float: left;
+    margin-left:50px ;
+    font-size: large;
+}
+.vol{
+    float: right;  
+    margin-right: 3rem;  
+}
+.skill{
+    font-size:40px;
+    margin-bottom: 1rem;
+}
+.yasam{
+    font-size: large;
+    margin-bottom: 3rem;
+}
+.yetenek{
+    margin-bottom: 2rem;
+}
+.bi{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.vis{
+    text-align: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+#map_inner{
+    
+}
